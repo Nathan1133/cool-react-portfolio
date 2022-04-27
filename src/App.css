@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* My styling begins */
+
+
+.background {
+  height: 800px;
+background-color: rgb(0, 0, 0);
+
+}
+
+.heading {
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  font-weight: 400;
+}
+
+.info {
+  padding-top: 50px;
+  line-height: 2;
+  padding-right: 400px;
+  text-indent: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+}
+
+.header {
+
+  background-color: #072b6e;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.mx-2 {
+  float:left;
+  margin: 0 30px;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+  color: #fce138;
+  display: inline;
+
+
+}
+
+.flex-row{
+
+ padding-left: 1300px;
+}
+
+
+li a {
+
+}

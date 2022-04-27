@@ -8,12 +8,12 @@ function App() {
 
   return (
     <div>
-      
+         <Nav></Nav>
        <main>
-       <Nav></Nav>
+    
        <About></About>
        </main>
-       
+
     </div>
   );
 }

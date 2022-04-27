@@ -4,9 +4,9 @@ import React from 'react';
 function Nav() {
 
   return (
-    <header>
+    <header className='header'>
 
-    <nav>
+    <nav className='header'>
         <ul className="flex-row">
             <li className="mx-2">
                 <a href="#about">
@@ -23,6 +23,12 @@ function Nav() {
             <li className="mx-2">
                 <a href="#portfolio">
                     Portfolio
+                </a>
+            </li>
+
+            <li className="mx-2">
+                <a href="#resume">
+                    Resume
                 </a>
             </li>
 
