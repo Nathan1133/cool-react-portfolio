@@ -1,17 +1,19 @@
 import './App.css';
 
 import React from 'react';
-import Nav from './components/Nav';
+import Header from './components/Header';
 import About from './components/About';
+import Contact from './components/Contact';
 
 function App() {
 
   return (
     <div>
-         <Nav></Nav>
+         <Header></Header>
        <main>
     
        <About></About>
+       <Contact></Contact>
        </main>
 
     </div>

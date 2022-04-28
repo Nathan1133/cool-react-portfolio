@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: black;
 }
 
 .App-logo {
@@ -40,9 +41,10 @@
 
 /* My styling begins */
 
+/* About */
 
 .background {
-  height: 800px;
+height: 800px;
 background-color: rgb(0, 0, 0);
 
 }
@@ -52,10 +54,12 @@ background-color: rgb(0, 0, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: white;
   font-weight: 400;
+  padding: 10px;
 }
 
 .info {
   padding-top: 50px;
+  padding-left: 20px;
   line-height: 2;
   padding-right: 400px;
   text-indent: 100px;
@@ -64,16 +68,18 @@ background-color: rgb(0, 0, 0);
 
 }
 
+/* Header */
+
 .header {
 
-  background-color: #072b6e;
+  background-color: #3e7df1;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items:;
 }
 
 .mx-2 {
-  float:left;
   margin: 0 30px;
   font-weight: bold;
   font-size: 22px;
@@ -92,4 +98,28 @@ background-color: rgb(0, 0, 0);
 
 li a {
 
+}
+
+/* Contact */
+
+.contact {
+  color: rgb(0, 0, 0);
+  background-color:rgb(235, 100, 11);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 15px;
+  font-weight: bold;
+  border: 10px blue;
+}
+
+.contact > * {
+  flex: 1;
+  margin: 30px;
+}
+
+.contactMe {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: yellow;
+  font-size: 80px;
 }
