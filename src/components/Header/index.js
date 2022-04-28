@@ -6,6 +6,7 @@ function Nav() {
   return (
     <header className='header'>
 
+    <h1>Nathan Nitschke</h1>
     <nav className='header'>
         <ul className="flex-row">
             <li className="mx-2">
@@ -31,8 +32,6 @@ function Nav() {
                     Resume
                 </a>
             </li>
-
-
         </ul>
     </nav>
 
