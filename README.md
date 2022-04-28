@@ -12,5 +12,5 @@ Created a portfolio to showcase my skill and talents to employers looking to fil
 
 ### Sample Screenshot:
 
-
+![image](https://user-images.githubusercontent.com/94014154/165668402-045c7b39-54c5-455d-a375-e44462bc90a5.png)
 
