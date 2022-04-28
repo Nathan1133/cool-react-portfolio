@@ -8,6 +8,8 @@ Created a portfolio to showcase my skill and talents to employers looking to fil
 
 ### Deployed link:
 
+https://nathan1133.github.io/cool-react-portfolio/
+
 
 
 ### Sample Screenshot:
