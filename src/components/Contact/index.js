@@ -26,7 +26,7 @@ function ContactForm () {
                         
                         <textarea id="contact-message" placeholder="Message"></textarea>
                 
-                        <button type="send">Send</button>
+                        <button type="button">Send</button>
                     </form>
                 </div>
             </div>

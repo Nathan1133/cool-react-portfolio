@@ -42,24 +42,26 @@ function Portfolio () {
 
     const renderCard = (card, index) => {
         return (
-        <div id="portfolio">
+        
           <section key={index} class="card">
             <img alt={card.name} src={require(`../../assets/images/${card.img}`)} />
             <div class="cardBody">
-              <a class="card-git" href={card.repo}> {card.name} </a>
+              <a class="card-repo" href={card.repo}> {card.name} </a>
             </div>
           </section>
-        </div>
+        
         );
       };
 
     return (
+        <div id="portfolio">
         <section class="portfolio">    
             <h1 class="portfolioTitle"> Portfolio </h1>
             <div class="cardHolder">
                 {items.map(renderCard)}
             </div>
         </section>
+        </div>
     );
 }
 

@@ -41,6 +41,10 @@
 
 /* My styling begins */
 
+a {
+  text-decoration: none;
+}
+
 /* About */
 
 .background {
@@ -76,7 +80,7 @@ background-color: rgb(0, 0, 0);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items:;
+  align-items: right;
 }
 
 .mx-2 {
@@ -84,8 +88,9 @@ background-color: rgb(0, 0, 0);
   font-weight: bold;
   font-size: 22px;
   text-decoration: none;
-  color: #fce138;
+  color: #bd0c0c;
   display: inline;
+  align-items: right;
 
 
 }
@@ -96,9 +101,6 @@ background-color: rgb(0, 0, 0);
 }
 
 
-li a {
-
-}
 
 /* Contact */
 
@@ -122,4 +124,50 @@ li a {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: yellow;
   font-size: 80px;
+}
+
+/* Portfolio */
+
+.portfolio {
+  color: rgb(0, 0, 0);
+  background-color: ;
+
+}
+
+.portfolio h1 {
+  text-align: center;
+  margin: 5px;
+  font-size: 100px;
+}
+
+.cardHolder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  margin: 5px;
+  width: 25%;
+}
+
+.card img {
+  width: 100%;
+ border: 5px solid #bd0c0c;
+
+}
+
+.card a {
+  font-size: 30px;
+  font-weight: 600;
+  text-align:center;
+}
+
+.card-repo {
+  text-align: center;
+}
+
+.cardBody {
+  color: black;
+  text-align: center;
 }
