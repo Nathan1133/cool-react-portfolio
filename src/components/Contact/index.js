@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactForm () {
     return (
-        <section className="contact">
+        <section id="contact" className="contact">
             <h1 class="contactMe">Contact Me</h1>
             <div class="contact">
                 <div class="address">
