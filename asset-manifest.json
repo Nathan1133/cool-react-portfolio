@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cool-react-app/static/css/main.85ae9e09.css",
+    "main.js": "/cool-react-app/static/js/main.44461b52.js",
+    "static/js/787.17e1a454.chunk.js": "/cool-react-app/static/js/787.17e1a454.chunk.js",
+    "static/media/Foo(d).png": "/cool-react-app/static/media/Foo(d).0d1770319d0b11ac8a8a.png",
+    "static/media/run-buddy.PNG": "/cool-react-app/static/media/run-buddy.ee70cd4b520a511cc977.PNG",
+    "static/media/Horiseon.PNG": "/cool-react-app/static/media/Horiseon.7b92a55fa85880f5a6f7.PNG",
+    "static/media/lord-of-the-rinks.png": "/cool-react-app/static/media/lord-of-the-rinks.b70024206dfb38a67418.png",
+    "static/media/background.jpg": "/cool-react-app/static/media/background.1cedd1842f45d7422c34.jpg",
+    "static/media/tech-blog.png": "/cool-react-app/static/media/tech-blog.d70d60d0b6975e6c378c.png",
+    "static/media/profilepic.png": "/cool-react-app/static/media/profilepic.24c4af0cb226882549d4.png",
+    "static/media/budget-tracker.PNG": "/cool-react-app/static/media/budget-tracker.fcae24aabb1428526e46.PNG",
+    "index.html": "/cool-react-app/index.html",
+    "main.85ae9e09.css.map": "/cool-react-app/static/css/main.85ae9e09.css.map",
+    "main.44461b52.js.map": "/cool-react-app/static/js/main.44461b52.js.map",
+    "787.17e1a454.chunk.js.map": "/cool-react-app/static/js/787.17e1a454.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ae9e09.css",
+    "static/js/main.44461b52.js"
+  ]
+}
