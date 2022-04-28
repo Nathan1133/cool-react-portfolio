@@ -126,6 +126,11 @@ background-color: rgb(0, 0, 0);
   font-size: 80px;
 }
 
+.form {
+  padding: 5px;
+  border: 3px solid black;
+}
+
 /* Portfolio */
 
 .portfolio {
@@ -170,4 +175,20 @@ background-color: rgb(0, 0, 0);
 .cardBody {
   color: black;
   text-align: center;
+}
+
+/* Resume */
+
+.resumeTitle {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ border: 3px solid black;
+  font-size: 80px;
+}
+
+.highlight {
+  font-size: 30px;
+}
+
+.summary {
+  padding-right: 50%;
 }
